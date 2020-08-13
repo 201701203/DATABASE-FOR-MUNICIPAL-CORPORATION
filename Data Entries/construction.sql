@@ -1,0 +1,13 @@
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (1,'KP Highway','1/14/2015','3/17/2018','Akash Infra Projects Ltd.','1',5);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (2,'naruto Bridge','3/9/2017','6/1/2020','Bridge and Roof Co. (India) Ltd.','1',3);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (3,'engineering Garden','1/17/2009','6/24/2011','UNO Parks','5',5);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (4,'trident Thermal Power Station','11/11/2009','10/31/2013','Reliance','4',5);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (5,'Rosa Thermal Power Project','11/4/2006','6/25/2020','Reliance','4',3);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (6,'sakura Hospital','1/14/2007','6/2/2010','Akash Infra Projects Ltd.','1',5);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (7,'Eddard stark International Airport','1/14/2017','5/15/2030','L&T Engineering & Construction Division','1',3);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (8,'Atal Bihari Awas 1','10/15/2004','1/17/2008','L&T Engineering & Construction Division','1',5);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (9,'Central Bus Stand','7/11/2001','6/2/2003','L&T Engineering & Construction Division','1',5);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (10,'Cycle Booth','2/10/2017','7/17/2019','G Bike','5',4);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (11,'Gandhi Colony','10/15/2017','6/1/2025','L&T Engineering & Construction Division','1',3);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (12,'Central Bus Stand','7/11/2015','6/2/2020','L&T Engineering & Construction Division','1',4);
+insert into construction (constructionID,Cname,S_date,E_date,company_name,departmentid,phaseno) values (13,'sakura Hospital','12/1/2019','10/1/2025','Akash Infra Projects Ltd.','1',1);

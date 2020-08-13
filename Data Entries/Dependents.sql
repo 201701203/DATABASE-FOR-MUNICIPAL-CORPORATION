@@ -1,0 +1,18 @@
+insert into Dependents (essn,name,gender,DoB,Relation) values (30002,'suleman','m','6/14/1950','Father');
+insert into Dependents (essn,name,gender,DoB,Relation) values (30002,'aarya','f','4/19/1952','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (30001,'Ratan','m','6/14/1955','Father');
+insert into Dependents (essn,name,gender,DoB,Relation) values (30003,'Vidhya','f','1/1/1953','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (60002,'Pandit ji','m','5/24/1949','Father');
+insert into Dependents (essn,name,gender,DoB,Relation) values (70001,'Pandu','m','6/29/1950','Father');
+insert into Dependents (essn,name,gender,DoB,Relation) values (70001,'Rohini','f','6/14/1954','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (80003,'konan','f','9/19/1955','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (80004,'narayan','m','1/24/1948','Father');
+insert into Dependents (essn,name,gender,DoB,Relation) values (80004,'kokila','f','6/26/1950','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (80005,'prakash','m','4/14/1956','Father');
+insert into Dependents (essn,name,gender,DoB,Relation) values (80005,'priyanka','f','4/13/1957','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (10004,'leela','f','3/16/1947','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (40003,'kruti','f','9/17/1955','Mother');
+insert into Dependents (essn,name,gender,DoB,Relation) values (30001,'Rohit','m','11/26/2000','Son');
+insert into Dependents (essn,name,gender,DoB,Relation) values (30003,'Anushka','f','12/17/1999','Daughter');
+insert into Dependents (essn,name,gender,DoB,Relation) values (60002,'Mohini','f','6/4/1995','Daughter');
+insert into Dependents (essn,name,gender,DoB,Relation) values (70001,'Virat','m','3/26/2003','Son');

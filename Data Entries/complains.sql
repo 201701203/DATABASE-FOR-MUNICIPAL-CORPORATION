@@ -1,0 +1,8 @@
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (1,'I’m unhappy with the service my electricity .Electricity supply is so irregular.And that is problem on working days.','5/16/2019','3','solved');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (2,'Water is very unhygienic, even to use in regular work.','11/16/2019','1','unsolved');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (3,'Water supply is less and irregular in Yogi Darshan society.','6/8/2019','1','solved');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (4,'There is gutter leak just outside of Gokuldham Society.','8/24/2019','2','solved');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (5,'Around the Yogi Darshan society there is lot of traffic is happening because of the trucks, which is because of Municipalty is building bridge here.','4/26/2018','6','solved');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (6,'The road near gokuldham society has too much water-filled containers, Which causes Dengue so please repair this road.','9/14/2019','6','progress');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (7,'there is been heath related issues because of mosqitous near gokul dham','6/26/2018','4','progress');
+insert into Complains (complaintid,description,cDate,serviceid,cstatus) values (8,'Last week fire accident happened and fire brigede did not come as early as they should have','6/30/2017','5','solved');

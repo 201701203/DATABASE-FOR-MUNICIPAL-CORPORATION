@@ -1,0 +1,1 @@
+select r1.name,count(r1.complaintid) from (services natural join complains) as r1 group by r1.serviceid ;

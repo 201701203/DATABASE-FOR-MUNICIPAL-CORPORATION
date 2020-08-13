@@ -1,0 +1,5 @@
+insert into Privilege (pname,Description) values ('Government Accommodation','In case government accommodation is not available or the official decides to live in his own house or rented house, he gets House Rent Allowance (HRA) which could be upto 30% of Basic pay.');
+insert into Privilege (pname,Description) values ('Transport Allowance','Government officers may either get official transport facility or they would get transport allowance depending on the rank and the DA.');
+insert into Privilege (pname,Description) values ('Children Education Allowance','Upto two children @ 1500 per month');
+insert into Privilege (pname,Description) values ('Medical',' Reimbursement of full medical expenditure for the self and the family');
+insert into Privilege (pname,Description) values ('Pension','50% of the salary including DA till death of the employee. After his death, the spouse gets 50% of pension');

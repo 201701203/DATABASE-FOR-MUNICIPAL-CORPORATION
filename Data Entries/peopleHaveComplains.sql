@@ -1,0 +1,11 @@
+insert into peopleHaveComplains (citizenid,complaintid) values ('1','1');
+insert into peopleHaveComplains (citizenid,complaintid) values ('28','2');
+insert into peopleHaveComplains (citizenid,complaintid) values ('60','3');
+insert into peopleHaveComplains (citizenid,complaintid) values ('64','3');
+insert into peopleHaveComplains (citizenid,complaintid) values ('36','4');
+insert into peopleHaveComplains (citizenid,complaintid) values ('53','5');
+insert into peopleHaveComplains (citizenid,complaintid) values ('22','6');
+insert into peopleHaveComplains (citizenid,complaintid) values ('28','6');
+insert into peopleHaveComplains (citizenid,complaintid) values ('22','7');
+insert into peopleHaveComplains (citizenid,complaintid) values ('19','8');
+insert into peopleHaveComplains (citizenid,complaintid) values ('20','8');

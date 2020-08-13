@@ -1,0 +1,14 @@
+
+insert into welfare_scheme (schemeno,schemename,description) values (1,'Mobile Medical Van','FREE MEDICAL CHECK-UP AND PRIMARY MEDICAL SERVICES AT INDUSTRIAL AREA LABOURS COLONY AT FREE OF COST.');
+
+insert into welfare_scheme (schemeno,schemename,family_income_limit,lowerage,upperage,description) values (2,'Educational Award Scheme','60000','5','23','The Education award scheme has been implemented to encourage the students of the labors to increase their enthusiasm and to get higher education through it.Education award Scheme for Children of labourers those who have passed 70 Percentile and above marks in the 10th and 12th Std.');
+
+insert into welfare_scheme (schemeno,schemename,family_income_limit,description) values (3,'Shramyogi Pravasan Yojana','80000','Scheme for laborers to increase Joy and Functionality of Life Enjoy of laborers and their dependents with religious and spectacular tourist place visit.');
+
+insert into welfare_scheme (schemeno,schemename,description) values (4,'Maternity Aid- Benefit And Beti Bachao Scheme','Labour Women OR Labourer’s Wife maternity arises, then Medical expense, Hospital charges, Nutritive Diet Expense, etc aid giving Scheme.In this Scheme Maternity Help of Rs. 5000 is given.During Maternity, if Girl is born, then as per Beti Bachao Scheme Rs. 2500 is more given.');
+
+insert into welfare_scheme (schemeno,schemename,family_income_limit,lowerage,upperage,description) values (5,'Pradhan Mantri Jan Dhan Yojana','100000','3','59','Hon’ble Prime Minister announced Pradhan Mantri Jan Dhan Yojana as the National Mission on Financial Inclusion in his Independence Day address on 15th August 2014, to ensure comprehensive financial inclusion of all the households in the country by providing universal access to banking facilities with at least one basic bank account to every household, financial literacy, access to credit, insurance and pension facility.');
+
+insert into welfare_scheme (schemeno,schemename,family_income_limit,lowerage,upperage,description) values (6,'Pradhan Mantri Suraksha Bima Yojana','90000','18','70','The risk coverage under the scheme is Rs. 2 lakh for accidental death and full disability and Rs. 1 lakh for partial disability. The premium of Rs.12 per annum is to be deducted from the account holder’s bank account through ‘auto-debit’ facility in one instalment.');
+
+insert into welfare_scheme (schemeno,schemename,family_income_limit,description) values (7,'Pradhan Mantri Awas Yojana','150000',' Under the scheme, the government will provide interest subsidy of three to four per cent for a home loan amount of up to Rs 9 lakh and Rs 12 lakh.');

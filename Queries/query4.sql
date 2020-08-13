@@ -1,0 +1,1 @@
+select citizen.citizenid, citizen.f_name, citizen.L_name from citizen natural join taken where schemeid is not null;

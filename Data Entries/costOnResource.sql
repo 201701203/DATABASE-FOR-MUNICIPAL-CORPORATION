@@ -1,0 +1,12 @@
+insert into costOnResource (year,resourceid,cost) values ('2011','3','20000000');
+insert into costOnResource (year,resourceid,cost) values ('2011','4','6000000');
+insert into costOnResource (year,resourceid,cost) values ('2012','1','15000000');
+insert into costOnResource (year,resourceid,cost) values ('2012','5','5000000');
+insert into costOnResource (year,resourceid,cost) values ('2012','3','10000000');
+insert into costOnResource (year,resourceid,cost) values ('2013','2','8000000');
+insert into costOnResource (year,resourceid,cost) values ('2013','6','10000000');
+insert into costOnResource (year,resourceid,cost) values ('2014','1','25000000');
+insert into costOnResource (year,resourceid,cost) values ('2015','1','10000000');
+insert into costOnResource (year,resourceid,cost) values ('2015','2','8000000');
+insert into costOnResource (year,resourceid,cost) values ('2016','2','4000000');
+insert into costOnResource (year,resourceid,cost) values ('2017','1','5000000');
